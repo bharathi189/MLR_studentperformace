@@ -190,7 +190,7 @@ Flask Integration
 Machine Learning Deployment
 GitHub Project Management
 
-deployment on renfer.com
+deployment on render.com
 **https://mlr-studentperformace.onrender.com**
 
 👩‍💻 Author
